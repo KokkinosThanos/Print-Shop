@@ -1,3 +1,3 @@
 Print Shop
 
-Here is a full responssive home page, made with React-bootstrap.
+Here is a full responsive home page, made with React-bootstrap.
