@@ -1,0 +1,519 @@
+
+
+.custom-sectionC-container{
+    font-family: '../fonts/Arimo-VariableFont_wght.ttf';
+    height: 300px;
+}
+
+.custom-row-header-C{
+    height: 80px;
+}
+
+
+.custom-title-C{
+    width: 250px;
+    margin: auto;
+    margin-top: 2.5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.custom-text-C{
+    width: 250px;
+    margin: auto;
+    margin-top: 2.5px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.custom-card-row-C{
+    display: none;
+}
+
+.custom-carusel-layer{
+    display: block;
+    height: 220px;
+}
+
+.custom-carusel{
+    padding: 0 !important;
+    height: 220px;
+    width: 220px;
+    margin: auto;
+    
+}
+
+.custom-carusel-item{
+    width: 220px;
+    height: 220px;
+    margin: auto;
+    
+}
+
+.custom-carusel-image{
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 220px;
+    
+}
+
+.custom-carusel-title-C{
+    position: relative;
+    top: 20px;
+    width: 130px;
+    margin: auto;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.custom-carusel-price-C{
+    position: relative;
+    top: 20px;
+    width: 130px;
+    margin: auto;
+    color: black;
+    font-size: 11px;
+}
+
+
+
+
+
+
+/* --!-------------!!----------------------------------------!!!- */
+/* -----------!------------!---------------!-------------------- */ 
+/* --!-------------!!------------------------------------------ */
+/* ---        M E D I A - S T A R T S - H E R E           ---- */
+/* ---------------!----------------------------------------!- */
+/* -----------!---------------------------!----------------- */ 
+/* ---------------!---------------------------------------- */
+
+
+
+
+/* -----------!------------!---------------!---------------- */            
+/* -------------------------------------------------!!!---- */
+/*  ---  M E D I A  for SMALL devices  ------------------- */
+
+
+@media (min-width: 576px) {
+
+    .custom-sectionC-container{
+        height: 350px;
+    }
+    
+    .custom-row-header-C{
+        height: 100px;
+    }
+
+    .custom-title-C{
+        width: 250px;
+        margin: auto;
+        margin-top: 4px;
+        text-align: center;
+        font-size: 21px;
+        font-weight: bold;
+    }
+
+    .custom-text-C{
+        width: 250px;
+        margin: auto;
+        margin-top: 4px;
+        font-size: 12px;
+    }
+
+    .custom-card-row-C{
+        display: none;
+    }
+
+    .custom-carusel-layer{
+        display: block;
+        height: 250px;
+    }
+
+
+    .custom-carusel{
+        padding: 0 !important;
+        height: 250px;
+        width: 250px;
+        margin: auto;
+    }
+    
+    .custom-carusel-item{
+        width: 250px;
+        height: 250px;
+        margin: auto;
+    }
+    
+    .custom-carusel-image{
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 250px;
+    }
+
+    .custom-carusel-title-C{
+        position: relative;
+        top: 20px;
+        width: 130px;
+        margin: auto;
+        color: black;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    
+    .custom-carusel-price-C{
+        position: relative;
+        top: 20px;
+        width: 130px;
+        margin: auto;
+        color: black;
+        font-size: 13px;
+    }
+
+}
+
+/* -----------!------------!---------------!---------------- */            
+/* -------------------------------------------------!!!---- */
+/*  ---  M E D I A  for MEDIUM devices  ------------------- */
+
+
+@media (min-width: 768px) {
+
+    .custom-sectionC-container{
+        height: 400px;
+    }
+    
+    .custom-row-header-C{
+        height: 120px;
+    }
+
+    .custom-title-C{
+        width: 300px;
+        margin: auto;
+        margin-top: 4px;
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .custom-text-C{
+        width: 400px;
+        margin: auto;
+        margin-top: 4px;
+        font-size: 15px;
+    }
+
+    .custom-card-row-C{
+        display: block;
+        height: 280px;
+    }
+
+    .custom-card-C{
+        width: 225px;
+    }
+    
+    .custom-card-image-C {
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .custom-exclusion-image-left{
+        transform: translate(-1%,0);
+    }
+
+    .custom-exclusion-body-left{
+        transform: translate(-1%,0);
+    }
+
+    .custom-exclusion-image-right{
+        transform: translate(1%,0);
+    }
+
+    .custom-exclusion-body-right{
+        transform: translate(1%,0);
+    }
+    
+    .custom-card-body-C{
+        padding: 0 !important;
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .custom-card-title-C{
+        margin: 0 ;
+        width: 50%;
+        height: 35px;
+        float: left;
+        font-size: 11px;
+        line-height: 45px;
+        font-weight: bold;
+        color: black;
+    }
+
+    .custom-card-price-C{
+        margin: 0 ;
+        width: 50%;
+        height: 35px;
+        float: left;
+        font-size: 13px;
+        line-height: 45px;
+        text-align: right;
+    }
+
+    .custom-card-text-C{
+        margin: 0 ;
+        width: 100%;
+        height: 25px;
+        float: left;
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .custom-carusel-layer{
+        display: none;
+    }
+
+}
+
+
+
+/* -----------!------------!---------------!---------------- */            
+/* -------------------------------------------------!!!---- */
+/*  ---  M E D I A  for LARGE devices  ------------------- */
+
+
+@media (min-width: 992px) { 
+
+    .custom-sectionC-container{
+        height: 450px;
+    }
+
+    .custom-row-header-C{
+        height: 150px;
+    }
+
+    .custom-header-C{
+        padding: 0 !important;
+        width: 400px;
+    }
+
+    .custom-title-C{
+        width: 300px;
+        margin: auto;
+        margin-top: 4px;
+        text-align: center;
+        font-size: 27px;
+        font-weight: bold;
+        word-spacing: 1.5px;
+    }
+
+    .custom-text-C{
+        width: 400px;
+        margin: auto;
+        margin-top: 4px;
+        font-size: 15px;
+    }
+
+    .custom-card-row-C{
+        display: block;
+        height: 300px;
+    }
+
+    .custom-card-C{
+        width: 225px;
+    }
+    
+    .custom-card-image-C {
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .custom-exclusion-image-left{
+        transform: translate(-1%,0);
+    }
+
+    .custom-exclusion-body-left{
+        transform: translate(-1%,0);
+    }
+
+    .custom-exclusion-image-right{
+        transform: translate(1%,0);
+    }
+
+    .custom-exclusion-body-right{
+        transform: translate(1%,0);
+    }
+    
+    .custom-card-body-C{
+        padding: 0 !important;
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .custom-card-title-C{
+        margin: 0 ;
+        width: 50%;
+        height: 35px;
+        float: left;
+        font-size: 15px;
+        line-height: 45px;
+        font-weight: bold;
+        color: black;
+    }
+
+    .custom-card-price-C{
+        margin: 0 ;
+        width: 50%;
+        height: 35px;
+        float: left;
+        font-size: 13px;
+        line-height: 45px;
+        text-align: right;
+    }
+
+    .custom-card-text-C{
+        margin: 0 ;
+        width: 100%;
+        height: 25px;
+        float: left;
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .custom-carusel-layer{
+        display: none;
+    }
+
+}
+
+
+
+/* -----------!------------!---------------!---------------- */            
+/* -------------------------------------------------!!!---- */
+/*  ---  M E D I A  for EXTRA LARGE devices  ------------------- */
+
+
+@media (min-width: 1200px) {
+
+    
+    .custom-sectionC-container{
+        height: 550px;
+    }
+
+    .custom-row-header-C{
+        height: 150px;
+    }
+
+    .custom-header-C{
+        padding: 0 !important;
+    }
+
+    .custom-title-C{
+        width: 400px;
+        margin: auto;
+        font-weight: bold;
+        font-size: 36px;
+        text-align: center;
+        word-spacing: 2px;
+
+    }
+
+    .custom-text-C{
+        width: 400px;
+        margin: auto;
+        margin-top: 5px;
+        font-size: 17px;
+    }
+
+    .custom-card-row-C{
+        max-height: 450px;
+    }
+
+    .custom-card-col-C{
+        margin-top: 30px;
+    }
+
+    .custom-card-C{
+        width: 275px;
+    }
+    
+    .custom-card-image-C {
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .custom-exclusion-image-1{
+        transform: translate(-6%,0);
+    }
+
+    .custom-exclusion-body-1{
+        transform: translate(-6%,0);
+    }
+
+    .custom-exclusion-image-2{
+        transform: translate(-3%,0);
+    }
+
+    .custom-exclusion-body-2{
+        transform: translate(-3%,0);
+    }
+
+    .custom-exclusion-image-3{
+        transform: translate(3%,0);
+    }
+
+    .custom-exclusion-body-3{
+        transform: translate(3%,0);
+    }
+
+    .custom-exclusion-image-4{
+        transform: translate(6%,0);
+    }
+
+    .custom-exclusion-body-4{
+        transform: translate(6%,0);
+    }
+    
+    .custom-card-body-C{
+        padding: 0 !important;
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    .custom-card-title-C{
+        margin: 0 ;
+        width: 50%;
+        height: 40px;
+        float: left;
+        font-size: 19px;
+        line-height: 50px;
+        font-weight: bold;
+        color: black;
+    }
+
+    .custom-card-price-C{
+        margin: 0 ;
+        width: 50%;
+        height: 40px;
+        float: left;
+        font-size: 16px;
+        line-height: 50px;
+        text-align: right;
+    }
+
+    .custom-card-text-C{
+        margin: 0 ;
+        width: 100%;
+        height: 30px;
+        float: left;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .custom-carusel-layer{
+        display: none;
+    }
+
+}

@@ -1,0 +1,741 @@
+
+  .custom-header-container{
+    height: 55px;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  
+/* ------------------------------------------------------ */
+/* ----------------------------------------------------- */
+/* ---    custom-header-1 - STARTS HERE --- --- --- --- */
+
+
+  .custom-header-row-1{
+      height: 20px;
+      padding: 0 !important;
+      margin: 0 !important;
+  }
+  
+  .custom-header-col-1{
+      margin: 0 !important;
+      padding: 0 !important;
+  }
+
+  .custom-language-logo{
+      width: 11px;
+      height: 11px;
+      display: block;
+      background: url('../../images/worldwide.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  
+  .custom-language-text{
+      height: 11px;
+      display: block;
+      margin-left: 3px;
+      text-decoration: none;
+      line-height: 11px;
+      font-size: 10px;
+  }
+
+
+
+/* ------------------------------------------------------ */
+/* ----------------------------------------------------- */
+/* ---    custom-header-2 - STARTS HERE --- --- --- --- */
+
+
+.custom-header-row-2{
+    height: 5px;
+    padding: 0 !important;
+    margin: 0 !important; 
+}
+  
+  .custom-header-strip{   
+      background: url('../../images/h1-top-header-line-img-1.jpg');       /* CSS background-image  */
+      background-position: center bottom;
+      background-repeat: no-repeat;
+      background-size: 100%;
+  }
+
+
+
+
+/* ------------------------------------------------------ */
+/* ----------------------------------------------------- */
+/* ---    custom-header-3 - STARTS HERE --- --- --- --- */
+
+
+
+  .custom-header-row-3{
+        height: 30px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+ 
+  .custom-logo-black{
+      display: block; 
+      height: 20px !important;
+      width: 80px !important;
+      margin-top: 5px;
+      margin-left: -30px !important;
+      background: url('../../images/logo-black.png');       /* CSS background-image  */
+      background-position: left;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  
+  
+  .custom-nav-col{
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .custom-nav-menu{
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .custom-nav-button{
+      padding: 0 !important;
+      margin: 0 !important;
+      text-decoration: none;
+      position: relative;
+      left: 70%;
+      border: 0px solid transparent;
+      border-radius: 0 !important;
+      background: transparent;
+      box-shadow: 0px 0px 0px transparent;
+  }
+
+  .custom-colapse-bar{
+    padding: 0 !important;
+    margin: 0 !important;
+
+  }
+
+  .custom-menu-item{
+    padding: 0 !important;
+    margin: 0 !important;
+    padding-bottom: 20px !important;
+}
+
+
+.custom-menu-link{
+    height: 30px;
+    line-height: 30px;
+    font-weight: bold;
+    font-size: 9px;
+    text-align: left;
+    color: black !important;
+}   
+
+  .custom-span{
+      padding: 0 !important;
+      margin: 0 !important;
+  }
+
+  .custom-user-section{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+  .custom-navigation-user{
+     height: 30px;
+  } 
+  
+  .custom-user-link{
+      margin-top: 7.5px;
+      display: inline-block;
+  }
+  
+  .custom-search{
+      display: block;
+      height: 15px;
+      width: 15px;
+      background: url('../../images/magnifying-glass.png');       /* CSS background-image  */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+  }
+  
+  .custom-login{
+      display: block;
+      height: 15px;
+      width: 15px;
+      background: url('../../images/user2.png');       /* CSS background-image  */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+  }
+  
+  .custom-basket{
+      display: block;
+      height: 15px;
+      width: 15px;
+      background: url('../../images/shopping-carrt.png');       /* CSS background-image  */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+  }
+
+
+
+
+/* --!-------------!!----------------------------------------!!!- */
+/* -----------!------------!---------------!-------------------- */ 
+/* --!-------------!!------------------------------------------ */
+/* ---        M E D I A - S T A R T S - H E R E           ---- */
+/* --!----------------------------------------------------!-- */
+
+
+
+
+/* -----------!------------!---------------!---------------- */            
+/* -------------------------------------------------!!!---- */
+/*  ---  M E D I A  for SMALL devices  ------------------ */
+
+
+@media (min-width: 576px) {
+
+
+    .custom-header-container{
+        height: 65px;
+      }
+    
+    
+    /* ----------------------------------------------------- */
+    /* ---    custom-header-1 - STARTS HERE --- --- --- --- */
+    
+    
+        .custom-header-row-1{
+            height: 20px;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+    
+        .custom-language-logo{
+            width: 15px;
+            height: 15px;
+        }
+    
+        .custom-language-text{
+            height: 15px;
+            line-height: 15px;
+            margin-left: 5px;
+            font-size: 11px;
+        }
+    
+    
+    
+    
+    /* ----------------------------------------------------- */
+    /* ---    custom-header-2 - STARTS HERE --- --- --- --- */
+    
+    .custom-header-row-2{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    
+    
+    
+    /* ----------------------------------------------------- */
+    /* ---    custom-header-3 - STARTS HERE --- --- --- --- */
+    
+        .custom-header-row-3{
+            height: 35px;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+    
+        .custom-logo-black{
+            height: 25px !important;
+            width: 110px !important;
+            margin-top: 7.5px;
+            margin-left: -30px !important;
+        }
+    
+        .custom-nav-col{
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+    
+        .custom-nav-menu{
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+
+        .custom-nav-button{
+            padding: 0 !important;
+            margin-top: 5px !important;
+            width: 30px;
+            height: 30px;
+            position: relative;
+            left: 80%;
+        }
+    
+        .custom-colapse-bar{
+            padding: 0 !important;
+            margin: 0 !important;
+        }
+    
+        .custom-menu-item{
+            padding: 0 !important;
+            margin: 0 !important;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: left;
+        }
+    
+    
+        .custom-menu-link{
+            padding: 0 !important;
+            font-size: 8px !important;
+            color: black !important;
+            letter-spacing: 0.5px;
+        }    
+    
+        .custom-user-section{
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+    
+        .custom-navigation-user{
+            height: 30px;
+            margin-top: 5px;
+         } 
+         
+         .custom-user-link{
+             display: inline-block;
+             margin-top: 7.5px;
+         }
+    
+        .custom-search{
+            height: 13px;
+            width: 13px;
+            margin-left: 0.5px;
+        }
+        
+        .custom-login{
+            height: 13px;
+            width: 13px;
+            margin-left: 0.5px;
+        }
+        
+        .custom-basket{
+            height: 13px;
+            width: 13px;
+            margin-left: 0.5px;
+        }
+}
+
+
+
+
+/* -----------!------------!---------------!---------------- */            
+/* -------------------------------------------------!!!---- */
+/*  ---  M E D I A  for MEDIUM devices  ------------------ */
+
+
+
+  @media (min-width: 768px) {
+
+
+  .custom-header-container{
+    height: 70px;
+  }
+
+
+/* ----------------------------------------------------- */
+/* ---    custom-header-1 - STARTS HERE --- --- --- --- */
+
+
+    .custom-header-row-1{
+        height: 25px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-language-logo{
+        width: 17px;
+        height: 17px;
+    }
+
+    .custom-language-text{
+        height: 17px;
+        line-height: 17px;
+        margin-left: 5px;
+        font-size: 12px;
+    }
+
+
+/* ----------------------------------------------------- */
+/* ---    custom-header-2 - STARTS HERE --- --- --- --- */
+
+.custom-header-row-2{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* ----------------------------------------------------- */
+/* ---    custom-header-3 - STARTS HERE --- --- --- --- */
+
+    .custom-header-row-3{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-logo-black{
+        height: 30px !important;
+        width: 130px !important;
+        margin-top: 5px;
+        margin-left: -30px !important;
+    }
+
+    .custom-nav-col{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-nav-menu{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-colapse-bar{
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .custom-menu-item{
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+
+    .custom-menu-link{
+        padding: 0 !important;
+        margin-top: 5px !important;
+        font-size: 10px !important;
+        color: black !important;
+    }   
+
+    .custom-user-section{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-navigation-user{
+        height: 30px;
+        margin-top: 5px;
+     } 
+     
+     .custom-user-link{
+         display: inline-block;
+         margin-top: 7.5px;
+     }
+
+    .custom-search{
+        height: 15px;
+        width: 15px;
+        margin-left: 2px;
+    }
+    
+    .custom-login{
+        height: 15px;
+        width: 15px;
+        margin-left: 2px;
+    }
+    
+    .custom-basket{
+        height: 15px;
+        width: 15px;
+        margin-left: 2px;
+    }
+
+  }
+
+
+  
+/* -----------!------------!---------------!---------------- */            
+/* -------------------------------------------------!!!---- */
+/*  ---  M E D I A  for EXTRA LARGE devices  ------------- */
+
+
+@media (min-width: 992px) {
+
+    .custom-header-container{
+        height: 80px;
+      }
+
+
+/* ----------------------------------------------------- */
+/* ---    custom-header-1 - STARTS HERE --- --- --- --- */
+
+    .custom-header-row-1{
+        height: 25px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-language-logo{
+        width: 18px;
+        height: 18px;
+    }
+
+    .custom-language-text{
+        height: 18px;
+        line-height: 18px;
+        margin-left: 7px;
+        font-size: 12px;
+    }
+
+
+
+/* ----------------------------------------------------- */
+/* ---    custom-header-2 - STARTS HERE --- --- --- --- */
+
+    .custom-header-row-2{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+
+/* ----------------------------------------------------- */
+/* ---    custom-header-3 - STARTS HERE --- --- --- --- */
+
+
+    .custom-header-row-3{
+        height: 50px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-nav-logo{   
+        height: 50px;
+        width: 100px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-logo-black{
+        
+        height: 35px !important;
+        width: 140px !important;
+        margin-left: -15px !important;
+        margin-top: 7.5px ;
+    }
+
+
+    .custom-nav-col{
+        margin: 0 !important;
+        padding: 0 !important;
+        height: 50px;
+        background-color: ;
+    }
+
+    .custom-nav-menu{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-colapse-bar{
+        padding: 0 !important;
+        margin: 0 !important;
+        height: 50px;
+    }
+
+    .custom-menu-item{
+        height: 35px;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+
+    .custom-menu-link{
+        padding: 0 !important;
+        margin-top: 0 !important;
+        font-size: 11px !important;
+        color: black !important;
+    }
+
+    .custom-user-section{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-navigation-user{
+        height: 35px;
+        margin-top: 5px;
+        width: 250px;
+     } 
+     
+     .custom-user-link{
+         display: inline-block;
+         margin-top: 9px;
+         padding: 0 !important;
+     }
+
+    .custom-search{
+        height: 18px;
+        width: 18px;
+        margin-left: -20% !important;
+    }
+    
+    .custom-login{
+        height: 18px;
+        width: 18px;
+        margin-left: 5% !important;
+    }
+    
+    .custom-basket{
+        height: 18px;
+        width: 18px;
+        margin-left: 5% !important;
+    
+    }
+
+
+} 
+
+
+
+
+/* -----------!------------!---------------!---------------- */            
+/* -------------------------------------------------!!!---- */
+/*  ---  M E D I A  for EXTRA LARGE devices  ------------- */
+
+  @media (min-width: 1200px) {
+      
+
+  .custom-header-container{
+    height: 95px;
+  }
+
+/* ----------------------------------------------------- */
+/* ---    custom-header-1 - STARTS HERE --- --- --- --- */
+
+
+    .custom-header-row-1{
+        height: 30px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-language-logo{
+        width: 18px;
+        height: 18px;
+    }
+
+    .custom-language-text{
+        height: 18px;
+        line-height: 18px;
+        margin-left: 7px;
+        font-size: 12px;
+    }
+
+
+
+
+/* ----------------------------------------------------- */
+/* ---    custom-header-2 - STARTS HERE --- --- --- --- */
+.custom-header-row-2{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* ----------------------------------------------------- */
+/* ---    custom-header-3 - STARTS HERE --- --- --- --- */
+
+    .custom-header-row-3{
+        height: 60px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-nav-logo{   
+        height: 60px;
+        width: 120px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-logo-black{
+        height: 40px !important;
+        width: 150px !important;
+        margin-top: 10px ;
+        margin-left: -17px !important;
+    }
+
+
+    .custom-nav-col{
+        margin: 0 !important;
+        padding: 0 !important;
+        height: 60px;
+    }
+
+    .custom-nav-menu{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-colapse-bar{
+        padding: 0 !important;
+        margin: 0 !important;
+        height: 60px;
+    }
+
+    .custom-menu-item{
+        height: 40px;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .custom-menu-link{
+        height: 40px;
+        line-height: 40px;
+        font-size: 11px !important;
+        /* font-weight: bold; */
+    }
+
+    .custom-user-section{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .custom-navigation-user{
+        height: 40px;
+        margin-top: 10px;
+        transform: translate(-5%,0);
+     } 
+     
+     .custom-user-link{
+         display: inline-block;
+         margin-top: 10px;
+     }
+
+    .custom-search{
+        height: 20px;
+        width: 20px;
+        margin-left: 15px !important;
+    }
+    
+    .custom-login{
+        height: 20px;
+        width: 20px;
+        margin-left: 15px !important;
+    }
+    
+    .custom-basket{
+        height: 20px;
+        width: 20px;
+        margin-left: 15px !important;
+    
+    }
+
+  }
