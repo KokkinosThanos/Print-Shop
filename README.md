@@ -1,6 +1,4 @@
-Print Shop
-
-A responsive home page!
+A responsive home page for a Print Shop 
 
 ----------------
 Web Technologies
